@@ -2,4 +2,4 @@
 
 This public, source-free repository distributes signed production/stable Windows installer and update artifacts for Restaurly. The application source remains private.
 
-No release has been published yet. Restaurly clients will accept only artifacts that pass the product's release-manifest and platform-signature verification.
+Restaurly clients will accept only artifacts that pass the product's release-manifest and platform-signature verification.
